@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/LuminaTests.build/primary.swiftdeps"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Tests/LuminaTests/LuminaTests.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/LuminaTests.build/LuminaTests.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/LuminaTests.build/LuminaTests.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/LuminaTests.build/LuminaTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/LuminaTests.build/LuminaTests.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/LuminaTests.build/LuminaTests.dia"
+  }
+}

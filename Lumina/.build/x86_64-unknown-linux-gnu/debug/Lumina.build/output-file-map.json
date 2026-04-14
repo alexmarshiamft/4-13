@@ -1,0 +1,138 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/primary.swiftdeps"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/App/LuminaApp.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaApp.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaApp.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaApp~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaApp.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaApp.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Models/FocusSession.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusSession.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusSession.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusSession~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusSession.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusSession.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Models/HabitEntry.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitEntry.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitEntry.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitEntry~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitEntry.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitEntry.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Models/LuminaHabit.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaHabit.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaHabit.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaHabit~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaHabit.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaHabit.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Models/LuminaTask.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaTask.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaTask.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaTask~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaTask.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LuminaTask.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Modules/Calendar/CalendarSyncManager.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/CalendarSyncManager.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/CalendarSyncManager.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/CalendarSyncManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/CalendarSyncManager.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/CalendarSyncManager.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Modules/Location/LocationManager.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LocationManager.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LocationManager.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LocationManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LocationManager.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/LocationManager.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Modules/NLP/NLPParser.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NLPParser.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NLPParser.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NLPParser~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NLPParser.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NLPParser.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Modules/Notifications/NotificationScheduler.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NotificationScheduler.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NotificationScheduler.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NotificationScheduler~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NotificationScheduler.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/NotificationScheduler.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Modules/StoreKit/StoreManager.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/StoreManager.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/StoreManager.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/StoreManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/StoreManager.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/StoreManager.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/Focus/FocusTimerView.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerView.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerView.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerView.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerView.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/Focus/FocusTimerViewModel.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerViewModel.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerViewModel.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerViewModel~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerViewModel.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/FocusTimerViewModel.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/MainWindow/ContentView.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ContentView.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ContentView.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ContentView.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ContentView.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/MainWindow/HabitView.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitView.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitView.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitView.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/HabitView.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/MainWindow/TaskListView.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/TaskListView.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/TaskListView.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/TaskListView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/TaskListView.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/TaskListView.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/MenuBar/MenuBarView.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/MenuBarView.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/MenuBarView.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/MenuBarView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/MenuBarView.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/MenuBarView.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/QuickCapture/QuickCaptureView.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureView.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureView.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureView~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureView.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureView.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/QuickCapture/QuickCaptureViewModel.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureViewModel.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureViewModel.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureViewModel~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureViewModel.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/QuickCaptureViewModel.dia"
+  },
+  "/home/runner/work/4-13/4-13/Lumina/Sources/Lumina/Views/Shared/ThemeManager.swift": {
+    "dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ThemeManager.d",
+    "object": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ThemeManager.swift.o",
+    "swiftmodule": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ThemeManager~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ThemeManager.swiftdeps",
+    "diagnostics": "/home/runner/work/4-13/4-13/Lumina/.build/x86_64-unknown-linux-gnu/debug/Lumina.build/ThemeManager.dia"
+  }
+}
