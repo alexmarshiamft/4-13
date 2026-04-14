@@ -1,0 +1,26 @@
+# Swift Package Manager build artifacts
+.build/
+*.o
+*.d
+*.dia
+*.swp
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+*.resolved
+
+# macOS
+.DS_Store
+*.swp
+.AppleDouble
+.LSOverride
+
+# Instruments
+*.trace
+
+# Test results
+TestResults/
+*.xcresult
